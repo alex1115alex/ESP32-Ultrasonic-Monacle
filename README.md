@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=voOx4LUhUQM
 Here's a link to the Circuit.IO page: https://www.circuito.io/app?components=513,13959,360217,985157
 
 2. Upload the code to your ESP32 in the Arduino IDE
+
+3. Assemble the smart glasses (should be fairly intuitive as eveything snaps together) 
