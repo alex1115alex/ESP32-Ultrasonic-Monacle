@@ -1,6 +1,6 @@
 # ESP32-Ultrasonic-Monacle
 
-Contains progress on my ESP32 monacle
+It's a pair of smart glasses that displays the distance from the object you’re looking at
 
 https://www.youtube.com/watch?v=voOx4LUhUQM
 
